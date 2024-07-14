@@ -102,4 +102,4 @@ else:
     dataPacket['API_auth'] = False
 
 
-print(dataPacket) #JSON MA YO DATAPACKET RETURN
+print(dataPacket) #RETURNS JSON TO API
